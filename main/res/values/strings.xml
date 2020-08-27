@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gonna</string>
+    <string name="title">Ganna</string>
+    <string name="home_button">首頁</string>
+    <string name="search_button">搜尋</string>
+    <string name="fav_button">最愛</string>
+    <string name="pro_button">個人</string>
+</resources>
